@@ -1,7 +1,7 @@
 # Skin Care Application
 
 Java Application to take in products and build/track
-a skin cycle routine and update user through OS notifications.
+a skin care routine and update user through OS notifications.
 
 ### Features
 - [x] Products.txt file specifying input products
