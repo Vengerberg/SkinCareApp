@@ -1,0 +1,13 @@
+PRODUCT_ID  |   PRODUCT_NAME    |   PRODUCT_BRAND   |   PRODUCT_TYPE    |   PRODUCT_TIME    |   PRODUCT_OWNED   |   PRODUCT_COST    |   PRODUCT_INSTRUCTIONS
+1,Cicaplast Baume B5,La-Roche Posay,Moisturizer/Slug,PM,false,$14.09
+2,Hydrogel Cream,Honest Beauty,Moisturizer,AM,false,$19.99
+3,Calm On Foaming Cream Cleanser,Honest Beauty,Cleanser,PM,false,$17.99
+4,Rebalancing Cleanser,Blueberry,Cleanser,AM,false,$9.95
+5,Face Cream Rose & Pomegranate Antioxidant,LilyAnaa Naturals,Moisturizer/Vitamin C/Slug,ANY,false,$29.99
+6,Watermelon Glow PHA + BHA,Glow Recipe,Exfoliator,PM,false,$34
+7,Eau Thermale RetrinAL 0.1 Intensive Cream,Avene,Retinoid,PM,false,$74
+8,Retinol 0.5% in Squalane,The Ordinary,Retinoid,PM,false,$$7.50
+9,Vitamin C Serum,The Inkey List,Vitamin C,AM,false,$10.99
+10,Mineral Sheerscreen SPF 30,Supergoop,Sunscreen,AM,false,$38
+11,Water Bank Blue Hyaluronic Serum,Laneige,Serum,ANY,false,$45
+
